@@ -21,6 +21,8 @@
 * [[译] webpack 更新日志(一)](https://github.com/QC-L/blog/issues/36)
 * [[译] webpack 5 之持久化缓存](https://github.com/QC-L/blog/issues/37)
 * [webpack文档更新日志（6.16-7.10）](https://github.com/QC-L/blog/issues/47)
+* [webpack文档更新日志（7.11-7.27）](https://github.com/QC-L/blog/issues/50)
+* [webpack文档更新日志（7.28-8.14）](https://github.com/QC-L/blog/issues/51)
 * [记 webpack 中文文档的一次优化](https://github.com/QC-L/blog/issues/49)
 
 ### Vue
