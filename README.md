@@ -23,6 +23,7 @@
 * [webpack文档更新日志（6.16-7.10）](https://github.com/QC-L/blog/issues/47)
 * [webpack文档更新日志（7.11-7.27）](https://github.com/QC-L/blog/issues/50)
 * [webpack文档更新日志（7.28-8.14）](https://github.com/QC-L/blog/issues/51)
+* [webpack文档更新日志（8.15-8.28）](https://github.com/QC-L/blog/issues/52)
 * [记 webpack 中文文档的一次优化](https://github.com/QC-L/blog/issues/49)
 
 ### Vue
