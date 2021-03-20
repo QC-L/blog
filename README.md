@@ -2,6 +2,10 @@
 
 感谢大家的关注，如果觉得不错，请点个 star!
 
+## 年终总结
+
+* [QC-L 的 2020](https://github.com/QC-L/blog/issues/59)
+
 ## 前端相关
 
 ### 小程序
@@ -24,6 +28,10 @@
 * [webpack文档更新日志（7.11-7.27）](https://github.com/QC-L/blog/issues/50)
 * [webpack文档更新日志（7.28-8.14）](https://github.com/QC-L/blog/issues/52)
 * [webpack文档更新日志（8.15-8.28）](https://github.com/QC-L/blog/issues/53)
+* [webpack 文档更新日志（8.29-9.11）](https://github.com/QC-L/blog/issues/54)
+* [webpack 文档更新日志（9.12-9.29）](https://github.com/QC-L/blog/issues/56)
+* [webpack 文档更新日志（9.30-10.25）](https://github.com/QC-L/blog/issues/57)
+* [webpack 文档更新日志（10.26-11.17）](https://github.com/QC-L/blog/issues/58)
 * [记 webpack 中文文档的一次优化](https://github.com/QC-L/blog/issues/49)
 
 ### Vue
@@ -31,6 +39,7 @@
 * [基于 vue-cli 脚手架工具构建Vue项目](https://github.com/QC-L/blog/issues/6)
 * [从 Vue 源码学习编译及 TypeScript（一） —— parse](https://github.com/QC-L/blog/issues/46)
 * [【译】Vue 3 正式进入 RC 阶段！](https://github.com/QC-L/blog/issues/48)
+* [【官宣】Vue 3.0 — One Piece 发布](https://github.com/QC-L/blog/issues/55)
 
 ### Babel
 
